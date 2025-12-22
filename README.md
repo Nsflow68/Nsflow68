@@ -18,14 +18,16 @@ Actualmente realizando mi **Práctica Profesional en Sodimac** (Centro de Abaste
 
 ### 📊 Estadísticas de Programación
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsflow68&layout=donut&theme=vision-heavy&hide_border=true&langs_count=6" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nsflow68&show_icons=true&theme=vision-heavy&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsflow68&layout=donut&theme=radical&hide_border=true&langs_count=6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nsflow68&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
 
 ---
 
 ### 📈 Actividad en GitHub
-![Gráfico de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Nsflow68&theme=vision-heavy&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nsflow68&theme=radical&hide_border=true" />
+</p>
 
 ---
 
