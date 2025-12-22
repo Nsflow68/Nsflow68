@@ -21,7 +21,7 @@
 
 ### Dominio de Lenguajes
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsflow68&layout=donut&theme=radical&hide_border=true&langs_count=8&count_private=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsflow68&layout=donut&theme=radical&hide_border=true&langs_count=8&count_private=true&locale=es" />
 </p>
 
 ---
