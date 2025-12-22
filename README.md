@@ -29,7 +29,7 @@
 ### Proyectos Destacados
 | Proyecto | Stack Principal | Descripción |
 | :--- | :--- | :--- |
-| **[PracticaSodimac](https://github.com/Nsflow68/PracticaProfesionalSodimac)** |  Python /  Node | Ecosistema de APIs y trazabilidad para el Centro de Abastecimiento. |
+| **[PracticaSodimac](https://github.com/Nsflow68/PracticaProfesionalSodimac)** |  JS, TypeScript /  Node | Ecosistema de APIs y trazabilidad para el Centro de Abastecimiento. |
 | **[CAPSTONE-PPY4614](https://github.com/Nsflow68/CAPSTONE-PPY4614-007D)** |  Dart / Flutter | Portafolio de título y aplicación móvil (Grupo 6). |
 | **[Art TelasWEB](https://github.com/Nsflow68/art-telasWEB)** |  Vue.js | E-commerce web para pyme local de telas. |
 | **[Ferremas3.0](https://github.com/Nsflow68/Ferremas3.0)** |  Python | Integración de plataformas y gestión de ventas. |
