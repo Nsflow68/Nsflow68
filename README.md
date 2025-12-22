@@ -1,8 +1,8 @@
-# ¡Hola, soy Nacho! 👋 (Nsflow68)
+# ¡Hola, soy Pierre Salas! (Nsflow68)
 
-> **Desarrollador en formación | Práctica Profesional en Sodimac** 🚀
+> **Desarrollador en formación | Práctica Profesional en Sodimac** 
 
-### 🛠️ Mi Stack Tecnológico
+### Mi Stack Tecnológico
 *Herramientas y lenguajes que utilizo en mis proyectos (Web, Mobile & Backend):*
 
 <p align="left">
@@ -20,14 +20,14 @@
 
 ---
 
-### 📊 Dominio de Lenguajes
+### Dominio de Lenguajes
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsflow68&layout=donut&theme=radical&hide_border=true&langs_count=8&count_private=true" />
 </p>
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 | Proyecto | Stack Principal | Descripción |
 | :--- | :--- | :--- |
 | **[PracticaSodimac](https://github.com/Nsflow68/PracticaProfesionalSodimac)** | 🐍 Python / 🟢 Node | Ecosistema de APIs y trazabilidad para el Centro de Abastecimiento. |
@@ -37,7 +37,7 @@
 
 ---
 
-### 📈 Mi Actividad
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nsflow68&theme=radical&hide_border=true)
+### Mi Actividad
+![Streak](https://streak-stats.demolab.com?user=Nsflow68&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 <p align="right"><i>"Transformando datos en soluciones eficientes."</i></p>
