@@ -1,8 +1,6 @@
 # ¡Hola, soy Pierre Salas! (Nsflow68)
 
-> **Desarrollador en formación | Práctica Profesional en Sodimac** 
-
-### Mi Stack Tecnológico
+> **Desarrollador en formación | Práctica Profesional en Sodimac** ### Mi Stack Tecnológico
 *Herramientas y lenguajes que utilizo en mis proyectos (Web, Mobile & Backend):*
 
 <p align="left">
@@ -30,14 +28,23 @@
 ### Proyectos Destacados
 | Proyecto | Stack Principal | Descripción |
 | :--- | :--- | :--- |
-| **[PracticaSodimac](https://github.com/Nsflow68/PracticaProfesionalSodimac)** | 🐍 Python / 🟢 Node | Ecosistema de APIs y trazabilidad para el Centro de Abastecimiento. |
-| **[CAPSTONE-PPY4614](https://github.com/Nsflow68/CAPSTONE-PPY4614-007D)** | 📱 Dart / Flutter | Portafolio de título y aplicación móvil (Grupo 6). |
-| **[Art TelasWEB](https://github.com/Nsflow68/art_telasWEB)** | 🟢 Vue.js | E-commerce web para pyme local de telas. |
-| **[Ferremas3.0](https://github.com/Nsflow68/Ferremas3.0)** | 🐍 Python | Integración de plataformas y gestión de ventas. |
+| **[PracticaSodimac](https://github.com/Nsflow68/PracticaProfesionalSodimac)** |  Python /  Node | Ecosistema de APIs y trazabilidad para el Centro de Abastecimiento. |
+| **[CAPSTONE-PPY4614](https://github.com/Nsflow68/CAPSTONE-PPY4614-007D)** |  Dart / Flutter | Portafolio de título y aplicación móvil (Grupo 6). |
+| **[Art TelasWEB](https://github.com/Nsflow68/art_telasWEB)** |  Vue.js | E-commerce web para pyme local de telas. |
+| **[Ferremas3.0](https://github.com/Nsflow68/Ferremas3.0)** |  Python | Integración de plataformas y gestión de ventas. |
 
 ---
 
 ### Mi Actividad
 ![Streak](https://streak-stats.demolab.com?user=Nsflow68&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+---
+
+### 📫 Contacto
+<p align="center">
+  <a href="https://www.linkedin.com/in/pierre-salas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <p align="right"><i>"Transformando datos en soluciones eficientes."</i></p>
