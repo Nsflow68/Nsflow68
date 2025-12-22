@@ -1,6 +1,7 @@
 # ¡Hola, soy Pierre Salas! (Nsflow68)
 
-> **Desarrollador en formación | Práctica Profesional en Sodimac** ### Mi Stack Tecnológico
+> **Desarrollador en formación | Práctica Profesional en Sodimac**
+### Mi Stack Tecnológico
 *Herramientas y lenguajes que utilizo en mis proyectos (Web, Mobile & Backend):*
 
 <p align="left">
